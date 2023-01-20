@@ -18,6 +18,6 @@ I'm Caio, a 22 years old computer engineer from Brazil.
 - 👨‍✈️ Windows, Linux
 
 ## Contact
+- 🧑‍💼 [caiocvl](https://www.linkedin.com/in/caiocvl/) on LinkedIn
 - 📫 caiocvlopes@gmail.com on email
 - 📱 +55 (13) 9 9731-0773
-- 🧑‍💼 [caiocvl](https://www.linkedin.com/in/caiocvl/) on LinkedIn
