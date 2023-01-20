@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/caiython/caiython/main/name.png" alt="Caiython" />
+</h1>
 
-<!--
-**caiython/caiython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
+I'm Caio, a 22 years old computer engineer from Brazil.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+- 👥 Support Analyst at IPCOMM
+- 🌱 I’m currently learning Hadoop Ecosystem and PySpark
+- ⚡ Fun fact: I love to teach
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 Python, PHP, C, HTML, Arduino
+- 📦 Python Anaconda, REST, WebScraping
+- 👁️ HTML, CSS, Bootstrap
+- 💽 MySQL, SQL, MongoDB
+- 👨‍✈️ Windows, Linux
+
+## Contact
+- 📫 caiocvlopes@gmail.com on email
+- 📱 +55 (13) 9 9731-0773
+- 🧑‍💼 [caiocvl](https://www.linkedin.com/in/caiocvl/) on LinkedIn
